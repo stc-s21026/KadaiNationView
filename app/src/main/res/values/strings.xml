@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">リスト選択サンプル</string>
+    <string name="text">test</string>
+    <string-array name="lv_menu">
+        <item>日本</item>
+        <item>韓国</item>
+        <item>朝鮮</item>
+        <item>中国</item>
+        <item>ロシア</item>
+        <item>タイ</item>
+        <item>インド</item>
+        <item>ガーナ</item>
+        <item>サウジアラビア</item>
+        <item>イギリス</item>
+        <item>イタリア</item>
+        <item>ドイツ</item>
+        <item>スイス</item>
+        <item>アメリカ</item>
+        <item>ブラジル</item>
+    </string-array>
+</resources>
